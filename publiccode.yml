@@ -21,7 +21,7 @@ platforms:                   # or Windows, Mac, Linux, etc.
   - ios
 
 tags:
-  - robotics
+  - remote-access
   - security
 
 usedBy:
